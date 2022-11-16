@@ -6,7 +6,7 @@ import { Login } from "./src/screen/Login";
 function App() {
   return (
     
-      <TabNavigator/>
+      <Login/>
    
   )
 }
